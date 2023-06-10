@@ -13,5 +13,6 @@
 4. Fourth item
 5. Fives item
 6. Six item
+7. Seventh item
 
 ![Alt text](tree.png)
